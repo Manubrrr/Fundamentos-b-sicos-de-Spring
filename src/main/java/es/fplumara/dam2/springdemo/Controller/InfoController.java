@@ -1,4 +1,4 @@
-package es.fplumara.dam2.springdemo.Controller;
+package es.fplumara.dam2.springdemo.controller;
 
 import es.fplumara.dam2.springdemo.domain.AppInfo;
 import org.springframework.web.bind.annotation.GetMapping;

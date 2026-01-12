@@ -1,4 +1,4 @@
-package es.fplumara.dam2.springdemo.Service;
+package es.fplumara.dam2.springdemo.service;
 
 import es.fplumara.dam2.springdemo.config.ApiProperties;
 import org.springframework.stereotype.Service;

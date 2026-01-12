@@ -1,8 +1,9 @@
-package es.fplumara.dam2.springdemo.Controller;
+package es.fplumara.dam2.springdemo.controller;
 
-import es.fplumara.dam2.springdemo.Service.ApiClientService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import es.fplumara.dam2.springdemo.service.ApiClientService;
 
 @RestController
 public class ApiController {
